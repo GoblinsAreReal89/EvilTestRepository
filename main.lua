@@ -1,5 +1,10 @@
 require("L5")
 
 function setup()
-  ellipse(50, 50, 80, 80)
+  size(800,800)
+  background(255,200,200)
+end
+
+function draw()
+  
 end
